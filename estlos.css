@@ -1,0 +1,14 @@
+.boton-enlace {
+    /* Diseño básico del botón */
+    display: inline-block; /* Importante para aplicar padding y ancho */
+    padding: 10px 20px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+
+    /* Estilos del texto */
+    color: white; /* Color del texto */
+    background-color: #007bff; /* Color de fondo */
+    text-decoration: none; /* Quita el subrayado predeterminado del enlace */
+    text-align: center;
+    cursor: pointer; /* Muestra el cursor de mano */
+}
